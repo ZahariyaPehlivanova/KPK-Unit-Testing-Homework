@@ -1,0 +1,1 @@
+D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\UnitTestProject\bin\Debug\UnitTestProject.exe.config

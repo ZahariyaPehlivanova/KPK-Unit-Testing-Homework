@@ -1,0 +1,8 @@
+D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\CustomLinkedListTests.dll
+D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\CustomLinkedListTests.pdb
+D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\CustomLinkedList.dll
+D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\CustomLinkedList.pdb
+D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\obj\Debug\TestCustomLinkedList.csprojResolveAssemblyReference.cache
+D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\obj\Debug\CustomLinkedListTests.dll
+D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\obj\Debug\CustomLinkedListTests.pdb
