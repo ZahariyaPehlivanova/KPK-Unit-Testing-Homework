@@ -6,3 +6,10 @@ D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedL
 D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\obj\Debug\TestCustomLinkedList.csprojResolveAssemblyReference.cache
 D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\obj\Debug\CustomLinkedListTests.dll
 D:\SoftUni\VisualStudio\КПК\Homeworks\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\obj\Debug\CustomLinkedListTests.pdb
+C:\Users\Parapanov\Desktop\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\obj\Debug\TestCustomLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Parapanov\Desktop\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\obj\Debug\CustomLinkedListTests.dll
+C:\Users\Parapanov\Desktop\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\CustomLinkedListTests.dll
+C:\Users\Parapanov\Desktop\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\CustomLinkedListTests.pdb
+C:\Users\Parapanov\Desktop\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\CustomLinkedList.dll
+C:\Users\Parapanov\Desktop\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\bin\Debug\CustomLinkedList.pdb
+C:\Users\Parapanov\Desktop\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTests\obj\Debug\CustomLinkedListTests.pdb

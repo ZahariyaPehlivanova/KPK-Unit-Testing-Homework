@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLinkedList", "CustomL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCustomLinkedList", "CustomLinkedListTests\TestCustomLinkedList.csproj", "{2C3EE6EC-BF70-4B13-8F6B-66ABC459A7BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartupProjects", "StartupProjects\StartupProjects.csproj", "{352A1C68-415E-4FE8-A7D8-CBC568D6D71B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{2C3EE6EC-BF70-4B13-8F6B-66ABC459A7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C3EE6EC-BF70-4B13-8F6B-66ABC459A7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C3EE6EC-BF70-4B13-8F6B-66ABC459A7BE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{352A1C68-415E-4FE8-A7D8-CBC568D6D71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{352A1C68-415E-4FE8-A7D8-CBC568D6D71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{352A1C68-415E-4FE8-A7D8-CBC568D6D71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{352A1C68-415E-4FE8-A7D8-CBC568D6D71B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
